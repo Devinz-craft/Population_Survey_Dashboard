@@ -1,1 +1,12 @@
 # Population_Survey_Dashboard
+#### The dashboard provides a comprehensive overview of employment and unemployment rates across each state in the United States from the years 2000 to 2022. It presents the variation of the civilian labor force to the total non-institutional population in each state as well as the variation of employment to total unemployment in each state or area.
+
+#### The primary focus of the dashboard is to track and analyze the employment and unemployment trends over the specified time period. It offers a state-by-state comparison, allowing users to gain insights into the labor market dynamics and identify patterns and changes in employment and unemployment rates across different regions.
+
+#### The first section of the dashboard showcases the rate of employment and unemployment in each state. It presents a visual representation of the percentage of individuals employed and unemployed within each state from 2000 to 2022. The data is presented in a graphical format, allowing users to quickly observe and compare the employment and unemployment rates across different states and over time.
+
+#### The second section of the dashboard provides an analysis of the variation of the civilian labor force to the total non-institutional population in each state. This metric measures the percentage of the population that is actively participating in the labor force relative to the total non-institutional population. By examining this variation, users can understand the extent of labor force engagement within each state and identify any significant changes in workforce participation over the specified time period.
+
+#### The third section focuses on the variation of employment to total unemployment in each state or area. This metric reflects the ratio of individuals who are employed to those who are unemployed. By tracking this variation, users can assess the overall balance between employment and unemployment in each state, identify any shifts in the labor market, and potentially analyze factors contributing to changes in employment opportunities and job growth.
+
+#### Overall, the dashboard offers a comprehensive and visual representation of employment and unemployment trends across each state in the United States from 2000 to 2022. It provides valuable insights for researchers, policymakers, and analysts interested in understanding the dynamics of the labor market and making informed decisions based on these trends.
